@@ -2,8 +2,8 @@
 //  BookSubscriptionViewController.swift
 //  Book App
 //
-//  Created by Ndriqim Lahu on 5/2/21.
-//  Copyright © 2021 Ndriqim Lahu. All rights reserved.
+//  Created by BrightCraft on 5/2/21.
+//  Copyright © 2021 BrightCraft. All rights reserved.
 //
 
 import UIKit

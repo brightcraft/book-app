@@ -237,7 +237,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1150;
 				LastUpgradeCheck = 1150;
-				ORGANIZATIONNAME = "Ndriqim Lahu";
+				ORGANIZATIONNAME = "BrightCraft";
 				TargetAttributes = {
 					C5438372260FB7D5007FC665 = {
 						CreatedOnToolsVersion = 11.5;

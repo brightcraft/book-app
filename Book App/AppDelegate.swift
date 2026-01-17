@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Book App
 //
-//  Created by Ndriqim Lahu on 3/27/21.
-//  Copyright © 2021 Ndriqim Lahu. All rights reserved.
+//  Created by BrightCraft on 3/27/21.
+//  Copyright © 2021 BrightCraft. All rights reserved.
 //
 
 import UIKit

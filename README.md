@@ -76,7 +76,7 @@ Before starting, ensure the following are installed on your system:
 
 1. Clone or download the repository to your local machine:
    ```
-   git clone https://github.com/ndriqimlahu/book-app.git
+   git clone https://github.com/brightcraft/book-app.git
    ```
 2. Change the working directory to the project folder. You can do this by dragging and dropping the project folder into your terminal:
    ```
@@ -96,62 +96,62 @@ Below you can see some additional useful screenshots of what the mobile applicat
 
 - Login page | Sign up page | Home page — Welcome to the Book app
 <div>
-  <img src="https://raw.githubusercontent.com/ndriqimlahu/book-app/main/Preview/01-Log%20In%20page%20(Account).png" align="top" width="32%" height="auto">
-  <img src="https://raw.githubusercontent.com/ndriqimlahu/book-app/main/Preview/02-Sign%20Up%20page%20(Account).png" align="top" width="32%" height="auto">
-  <img src="https://raw.githubusercontent.com/ndriqimlahu/book-app/main/Preview/03-Book%20Main%20page%20(Welcome).png" align="top" width="32%" height="auto">
+  <img src="https://raw.githubusercontent.com/brightcraft/book-app/main/Preview/01-Log%20In%20page%20(Account).png" align="top" width="32%" height="auto">
+  <img src="https://raw.githubusercontent.com/brightcraft/book-app/main/Preview/02-Sign%20Up%20page%20(Account).png" align="top" width="32%" height="auto">
+  <img src="https://raw.githubusercontent.com/brightcraft/book-app/main/Preview/03-Book%20Main%20page%20(Welcome).png" align="top" width="32%" height="auto">
   <hr>
 </div>
 
 - Book Details page — Buy now | Book Subscription page — Fill in the fields for mailing subscription | Book Contact page — Select one of the contact types
 <div>
-  <img src="https://raw.githubusercontent.com/ndriqimlahu/book-app/main/Preview/04-Book%20Details%20page%20(Buy%20Now).png" align="top" width="32%" height="auto">
-  <img src="https://raw.githubusercontent.com/ndriqimlahu/book-app/main/Preview/05-Book%20Subscription%20page%20(Subscribe).png" align="top" width="32%" height="auto">
-  <img src="https://raw.githubusercontent.com/ndriqimlahu/book-app/main/Preview/06.1-Book%20Contact%20page%20(Select%20One).png" align="top" width="32%" height="auto">
+  <img src="https://raw.githubusercontent.com/brightcraft/book-app/main/Preview/04-Book%20Details%20page%20(Buy%20Now).png" align="top" width="32%" height="auto">
+  <img src="https://raw.githubusercontent.com/brightcraft/book-app/main/Preview/05-Book%20Subscription%20page%20(Subscribe).png" align="top" width="32%" height="auto">
+  <img src="https://raw.githubusercontent.com/brightcraft/book-app/main/Preview/06.1-Book%20Contact%20page%20(Select%20One).png" align="top" width="32%" height="auto">
   <hr>
 </div>
 
 - Book Contact page — Facebook has been selected | Book Contact page — Select one of the contact types | Book Contact page — Instagram has been selected
 <div>
-  <img src="https://raw.githubusercontent.com/ndriqimlahu/book-app/main/Preview/06.2-Book%20Contact%20page%20(Facebook).png" align="top" width="32%" height="auto">
-  <img src="https://raw.githubusercontent.com/ndriqimlahu/book-app/main/Preview/06.3-Book%20Contact%20page%20(Select%20One).png" align="top" width="32%" height="auto">
-  <img src="https://raw.githubusercontent.com/ndriqimlahu/book-app/main/Preview/06.4-Book%20Contact%20page%20(Instagram).png" align="top" width="32%" height="auto">
+  <img src="https://raw.githubusercontent.com/brightcraft/book-app/main/Preview/06.2-Book%20Contact%20page%20(Facebook).png" align="top" width="32%" height="auto">
+  <img src="https://raw.githubusercontent.com/brightcraft/book-app/main/Preview/06.3-Book%20Contact%20page%20(Select%20One).png" align="top" width="32%" height="auto">
+  <img src="https://raw.githubusercontent.com/brightcraft/book-app/main/Preview/06.4-Book%20Contact%20page%20(Instagram).png" align="top" width="32%" height="auto">
   <hr>
 </div>
 
 - Book Web page — Find your favorite book | Book Web page — New book releases | Book Map page — Track location with GPS
 <div>
-  <img src="https://raw.githubusercontent.com/ndriqimlahu/book-app/main/Preview/07.1-Book%20WebView%20page%20(Home).png" align="top" width="32%" height="auto">
-  <img src="https://raw.githubusercontent.com/ndriqimlahu/book-app/main/Preview/07.2-Book%20WebView%20page%20(Books).png" align="top" width="32%" height="auto">
-  <img src="https://raw.githubusercontent.com/ndriqimlahu/book-app/main/Preview/08.1-Book%20MapView%20page%20(GPS).png" align="top" width="32%" height="auto">
+  <img src="https://raw.githubusercontent.com/brightcraft/book-app/main/Preview/07.1-Book%20WebView%20page%20(Home).png" align="top" width="32%" height="auto">
+  <img src="https://raw.githubusercontent.com/brightcraft/book-app/main/Preview/07.2-Book%20WebView%20page%20(Books).png" align="top" width="32%" height="auto">
+  <img src="https://raw.githubusercontent.com/brightcraft/book-app/main/Preview/08.1-Book%20MapView%20page%20(GPS).png" align="top" width="32%" height="auto">
   <hr>
 </div>
 
 - Book Map page — Navigate to Prishtina city | Book Map page — Navigate to Vushtrri city | Book Map page — Navigate to Ferizaj city
 <div>
-  <img src="https://raw.githubusercontent.com/ndriqimlahu/book-app/main/Preview/08.2-Book%20MapView%20page%20(Navigate%20to%20Prishtina).png" align="top" width="32%" height="auto">
-  <img src="https://raw.githubusercontent.com/ndriqimlahu/book-app/main/Preview/08.3-Book%20MapView%20page%20(Navigate%20to%20Vushtrri).png" align="top" width="32%" height="auto">
-  <img src="https://raw.githubusercontent.com/ndriqimlahu/book-app/main/Preview/08.4-Book%20MapView%20page%20(Navigate%20to%20Ferizaj).png" align="top" width="32%" height="auto">
+  <img src="https://raw.githubusercontent.com/brightcraft/book-app/main/Preview/08.2-Book%20MapView%20page%20(Navigate%20to%20Prishtina).png" align="top" width="32%" height="auto">
+  <img src="https://raw.githubusercontent.com/brightcraft/book-app/main/Preview/08.3-Book%20MapView%20page%20(Navigate%20to%20Vushtrri).png" align="top" width="32%" height="auto">
+  <img src="https://raw.githubusercontent.com/brightcraft/book-app/main/Preview/08.4-Book%20MapView%20page%20(Navigate%20to%20Ferizaj).png" align="top" width="32%" height="auto">
   <hr>
 </div>
 
 - Book Library page — Book List | Book Library page — Adding a new book | Book Library page — New book has been added
 <div>
-  <img src="https://raw.githubusercontent.com/ndriqimlahu/book-app/main/Preview/09.1-Book%20ApiView%20page%20(Fetching%20data%20from%20API%20endpoint).png" align="top" width="32%" height="auto">
-  <img src="https://raw.githubusercontent.com/ndriqimlahu/book-app/main/Preview/09.2-Book%20ApiView%20page%20(Adding%20a%20new%20book).png" align="top" width="32%" height="auto">
-  <img src="https://raw.githubusercontent.com/ndriqimlahu/book-app/main/Preview/09.3-Book%20ApiView%20page%20(New%20book%20has%20been%20added).png" align="top" width="32%" height="auto">
+  <img src="https://raw.githubusercontent.com/brightcraft/book-app/main/Preview/09.1-Book%20ApiView%20page%20(Fetching%20data%20from%20API%20endpoint).png" align="top" width="32%" height="auto">
+  <img src="https://raw.githubusercontent.com/brightcraft/book-app/main/Preview/09.2-Book%20ApiView%20page%20(Adding%20a%20new%20book).png" align="top" width="32%" height="auto">
+  <img src="https://raw.githubusercontent.com/brightcraft/book-app/main/Preview/09.3-Book%20ApiView%20page%20(New%20book%20has%20been%20added).png" align="top" width="32%" height="auto">
   <hr>
 </div>
 
 - Book Library page — Updating the new book | Book Library page — New book has been updated | Book Library page — New book has been deleted
 <div>
-  <img src="https://raw.githubusercontent.com/ndriqimlahu/book-app/main/Preview/09.4-Book%20ApiView%20page%20(Updating%20the%20new%20book).png" align="top" width="32%" height="auto">
-  <img src="https://raw.githubusercontent.com/ndriqimlahu/book-app/main/Preview/09.5-Book%20ApiView%20page%20(New%20book%20has%20been%20updated).png" align="top" width="32%" height="auto">
-  <img src="https://raw.githubusercontent.com/ndriqimlahu/book-app/main/Preview/09.6-Book%20ApiView%20page%20(New%20book%20has%20been%20deleted).png" align="top" width="32%" height="auto">
+  <img src="https://raw.githubusercontent.com/brightcraft/book-app/main/Preview/09.4-Book%20ApiView%20page%20(Updating%20the%20new%20book).png" align="top" width="32%" height="auto">
+  <img src="https://raw.githubusercontent.com/brightcraft/book-app/main/Preview/09.5-Book%20ApiView%20page%20(New%20book%20has%20been%20updated).png" align="top" width="32%" height="auto">
+  <img src="https://raw.githubusercontent.com/brightcraft/book-app/main/Preview/09.6-Book%20ApiView%20page%20(New%20book%20has%20been%20deleted).png" align="top" width="32%" height="auto">
   <hr>
 </div>
 
 - Home page — Hi again to the Book app
-<img src="https://raw.githubusercontent.com/ndriqimlahu/book-app/main/Preview/10-Book%20Home%20page%20(Hi%20again).png" align="top" width="32%" height="auto">
+<img src="https://raw.githubusercontent.com/brightcraft/book-app/main/Preview/10-Book%20Home%20page%20(Hi%20again).png" align="top" width="32%" height="auto">
 
 ## Support
 
